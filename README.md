@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm AmirHossein</h1>
 <br>
 <h3 align="center">A Passionate Frontend Developer From Iran</h3>
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="150" align="right" style="margin-bottem:50px;">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="150" align="right">
+<br>
 
 <br>
 
