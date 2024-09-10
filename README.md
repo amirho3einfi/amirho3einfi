@@ -1,6 +1,7 @@
 <h1>🤔 About Me:</h1>
-- 👋 I’m AmirHossein Fahkari
-- 👀 I’m interested in Web
+- 👋 I’m AmirHossein 
+-🔭 I’m currently working on several projects to further my skills
+-🌱 I’m currently learning React
 
 
-<h1>so</h1>
+<h1>🌐 Socials:</h1>
