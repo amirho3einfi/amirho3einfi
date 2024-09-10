@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirho3einfi&label=Profile%20views&color=0e75b6&style=flat" alt="amirho3einfi" /> </p>
 <h2>🤔 About Me:</h2>
-- 🔭 I’m Currently Working On **Several Projects**
+- 🔭 I’m Currently Working On Several Projects
 
 - 🌱 I’m Currently Learning **React**
 
