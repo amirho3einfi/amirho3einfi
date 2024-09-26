@@ -1,4 +1,4 @@
-<img src="./banner.png" width="200" align="right">
+<img src="./banner.png" style="with:100%;">
 
 <h1 align="center">Hi 👋, I'm AmirHossein</h1>
 <br>
