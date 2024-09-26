@@ -1,3 +1,5 @@
+<img src="./banner.png" width="200" align="right">
+
 <h1 align="center">Hi 👋, I'm AmirHossein</h1>
 <br>
 <h3 align="center">A Passionate Frontend Developer From Iran</h3>
